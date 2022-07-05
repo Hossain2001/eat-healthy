@@ -1,0 +1,98 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.flexible-container{
+    display: flex;
+
+
+}
+.half-width{
+    width: 50%;
+}
+#skip{
+    color: orange;
+}
+.eat-healthy{
+    font-size: 60px;
+    padding-top: 100px;
+}
+p{
+    text-align: justify;
+    padding-bottom: 5%;
+}
+.order-food {
+    background-image: linear-gradient(orange tomato);
+    background-color: orange;
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    ;
+}
+.header-img{
+    height: 80%;
+}
+
+
+.about{
+    padding-left: 5%;
+    padding-right: 5%;
+    background-image: url(images/shapes/7.png);
+}
+.about-head{
+    font-size: 50px;
+    padding-top: 50px;
+}
+.recipie{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.about-text{
+    text-align: center;
+}
+.food{
+    height: 300px;
+    width: 500px;
+    
+}
+.section3{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.food-item{
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin: 2%;
+    border-radius: 8%;
+}
+.section4{
+    padding: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 2% 2% 9% 11%;
+    border-radius: 10px;
+}
+.social{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.social1{
+    padding-left: 10%;
+}
+.eat{
+    color: orange;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+.footer-item{
+    padding-top: 5%;
+}
